@@ -1,7 +1,8 @@
 ### Jupiter Demo Test
 #### A Maven demo test project with JUnit Jupiter
 
-Java and Maven should be installed and their bin dirs added to System variables Path.
+Java and Maven should be installed and their bin dirs added to System variables Path.  
+Tests were written to run with Microsoft Edge browser.
 
 - Clone repo to local dir and open cmd.exe in it
 - To get results only, run: mvn test
